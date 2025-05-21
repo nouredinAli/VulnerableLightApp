@@ -12,7 +12,7 @@ on:
 jobs:
   build:
 
-    runs-on: BD-78538
+    runs-on: self-hosted
 
     steps:
     - uses: actions/checkout@v4
